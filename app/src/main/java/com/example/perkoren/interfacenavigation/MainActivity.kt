@@ -1,9 +1,5 @@
 package com.example.perkoren.interfacenavigation
 
-/*
-Licensed under the Apache License, Version 2.0 (the "License");
- */
-
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 

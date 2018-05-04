@@ -1,9 +1,5 @@
 package com.example.perkoren.interfacenavigation
 
-/*
-Licensed under the Apache License, Version 2.0 (the "License");
- */
-
 import android.os.Handler
 import android.os.Message
 import android.support.v4.app.FragmentActivity

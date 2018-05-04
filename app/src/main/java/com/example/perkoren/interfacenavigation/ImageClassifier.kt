@@ -1,7 +1,6 @@
 package com.example.perkoren.interfacenavigation
 
 /*
-Licensed under the Apache License, Version 2.0 (the "License");
 This code is based on https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android/src/org/tensorflow/demo/TensorFlowImageClassifier.java
 */
 

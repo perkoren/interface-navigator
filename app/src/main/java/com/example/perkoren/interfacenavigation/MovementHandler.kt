@@ -16,7 +16,7 @@ class MovementHandler : Handler {
 
     companion object {
         private val TAG = "InterfaceNavigation"
-        private val ALLOWED_MOVES: ArrayMap<Int, Set<NextPosition>> = ArrayMap()
+        private val ALLOWED_MOVES: HashMap<Int, Set<NextPosition>> = HashMap()
 
         init {
             ALLOWED_MOVES[R.id.imageView1] = HashSet<NextPosition>(Arrays.asList(NextPosition(R.id.imageView2, CameraFragment.Movement.RIGHT),
